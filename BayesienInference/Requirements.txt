@@ -1,0 +1,4 @@
+numpy
+matplotlib.pylot
+emcee
+corner
